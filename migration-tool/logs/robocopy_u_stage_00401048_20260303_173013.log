@@ -1,0 +1,39 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Copia di file efficace per Windows                              
+-------------------------------------------------------------------------------
+
+  Avviato: martedç 3 marzo 2026 17:30:13
+      Origine : Y:\users\u_stage_00401048\Documents\
+ Destinazione : Z:\Danea\
+
+         File: *.*
+	    
+Directory exc: Y:\users\u_stage_00401048\Desktop
+	    Y:\users\u_stage_00401048\Downloads
+	    Y:\users\u_stage_00401048\Danea Easyfatt
+	    
+      Opzioni: *.* /S /E /DCOPY:DA /COPY:DATS /PURGE /MIR /NP /XJ /MT:32 /R:1 /W:1 
+
+-------------------------------------------------------------------------------
+
+	    Nuovo file		   5.8 m	Y:\users\u_stage_00401048\Documents\Danea Easyfatt\Arredufficio (esempio 1).eft
+	    Nuovo file		   6.6 m	Y:\users\u_stage_00401048\Documents\Danea Easyfatt\Migra_1.eft
+	    Nuovo file		   6.2 m	Y:\users\u_stage_00401048\Documents\Danea Easyfatt\Studio Rossi (esempio 2).eft
+	    Nuovo file		  544987	Y:\users\u_stage_00401048\Documents\Danea Easyfatt (Copie di sicurezza)\Migra_1\Migra_1 20260212 (12-2-26 12.41) Auto.bef
+	    Nuovo file		  875817	Y:\users\u_stage_00401048\Documents\Danea Easyfatt (Copie di sicurezza)\Migra_1\Migra_1 20260213 (13-2-26 12.38) Auto.bef
+	    Nuovo file		  876123	Y:\users\u_stage_00401048\Documents\Danea Easyfatt (Copie di sicurezza)\Migra_1\Migra_1 20260303 (3-3-26 17.29) Auto.bef
+
+-------------------------------------------------------------------------------
+
+              Totale   Copiato  IgnorateNon corrispondentiNon riuscitaSupplementari
+Directory:         4         4         0         0         0         0
+     File:         6         6         0         0         0         0
+     Byte:   20.87 m   20.87 m         0         0         0         0
+   Durata:   0:00:02   0:00:00                       0:00:00   0:00:00
+
+
+ VelocitÖ:           43.855.709 Byte/sec.
+ VelocitÖ:             2509,444 MB/min.
+   Terminato: martedç 3 marzo 2026 17:30:14
+

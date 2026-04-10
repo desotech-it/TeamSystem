@@ -1,0 +1,37 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Copia di file efficace per Windows                              
+-------------------------------------------------------------------------------
+
+  Avviato: martedç 3 marzo 2026 17:09:37
+      Origine : Y:\users\u_stage_00029468\Documents\
+ Destinazione : Z:\Danea\
+
+         File: *.*
+	    
+Directory exc: Y:\users\u_stage_00029468\Desktop
+	    Y:\users\u_stage_00029468\Downloads
+	    Y:\users\u_stage_00029468\Danea Easyfatt
+	    
+      Opzioni: *.* /S /E /DCOPY:DA /COPY:DATS /PURGE /MIR /NP /XJ /MT:32 /R:1 /W:1 
+
+-------------------------------------------------------------------------------
+
+	   Pió recente		   7.4 m	Y:\users\u_stage_00029468\Documents\Danea Easyfatt\Arredufficio (esempio 1).eft
+	    Modificato		   6.2 m	Y:\users\u_stage_00029468\Documents\Danea Easyfatt\Studio Rossi (esempio 2).eft
+	    Nuovo file		   7.0 m	Y:\users\u_stage_00029468\Documents\Danea Easyfatt\Test EFCloud 04.eft
+	    Nuovo file		  324352	Y:\users\u_stage_00029468\Documents\Danea Easyfatt (Copie di sicurezza)\Arredufficio (esempio 1)\Arredufficio (esempio 1) 20260303 (3-3-26 16.28) Auto.bef
+
+-------------------------------------------------------------------------------
+
+              Totale   Copiato  IgnorateNon corrispondentiNon riuscitaSupplementari
+Directory:         4         4         3         0         0         0
+     File:         4         4         0         0         0         0
+     Byte:   20.98 m   20.98 m         0         0         0         0
+   Durata:   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+ VelocitÖ:           244.448.711 Byte/sec.
+ VelocitÖ:             13987,468 MB/min.
+   Terminato: martedç 3 marzo 2026 17:09:37
+

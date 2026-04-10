@@ -1,0 +1,21 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Copia di file efficace per Windows                              
+-------------------------------------------------------------------------------
+
+  Avviato: venerdç 6 marzo 2026 12:29:21
+      Origine : Y:\users\kirito.soa77\Documents\
+ Destinazione : Z:\Danea\
+
+         File: *.*
+	    
+Directory exc: Y:\users\kirito.soa77\Desktop
+	    Y:\users\kirito.soa77\Downloads
+	    Y:\users\kirito.soa77\Danea Easyfatt
+	    
+      Opzioni: *.* /S /E /DCOPY:DA /COPY:DATS /PURGE /MIR /NP /XJ /MT:32 /R:1 /W:1 
+
+-------------------------------------------------------------------------------
+
+2026/03/06 12:29:21 ERRORE 3 (0x00000003) Accesso alla directory di origine in corso Y:\users\kirito.soa77\Documents\
+Impossibile trovare il percorso specificato.

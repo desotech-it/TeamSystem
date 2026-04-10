@@ -1,0 +1,37 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Copia di file efficace per Windows                              
+-------------------------------------------------------------------------------
+
+  Avviato: lunedç 9 marzo 2026 09:19:39
+      Origine : Y:\users\u_stage_00692848\Documents\
+ Destinazione : Z:\Danea\
+
+         File: *.*
+	    
+Directory exc: Y:\users\u_stage_00692848\Desktop
+	    Y:\users\u_stage_00692848\Downloads
+	    Y:\users\u_stage_00692848\Danea Easyfatt
+	    
+      Opzioni: *.* /S /E /DCOPY:DA /COPY:DATS /PURGE /MIR /NP /XJ /MT:32 /R:1 /W:1 
+
+-------------------------------------------------------------------------------
+
+	    Modificato		   5.8 m	Y:\users\u_stage_00692848\Documents\Danea Easyfatt\Arredufficio (esempio 1).eft
+	   Pió recente		   7.9 m	Y:\users\u_stage_00692848\Documents\Danea Easyfatt\Studio Rossi (esempio 2).eft
+	    Nuovo file		  243992	Y:\users\u_stage_00692848\Documents\Danea Easyfatt (Copie di sicurezza)\Studio Rossi (esempio 2)\Studio Rossi (esempio 2) 20260306 (6-3-26 14.43) Auto.bef
+	    Nuovo file		  836734	Y:\users\u_stage_00692848\Documents\Danea Easyfatt (Copie di sicurezza)\Studio Rossi (esempio 2)\Studio Rossi (esempio 2) 20260309 (9-3-26 09.01) Auto.bef
+
+-------------------------------------------------------------------------------
+
+              Totale   Copiato  IgnorateNon corrispondentiNon riuscitaSupplementari
+Directory:         4         4         3         0         0         0
+     File:         4         4         0         0         0         0
+     Byte:   14.79 m   14.79 m         0         0         0         0
+   Durata:   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+ VelocitÖ:           139.775.045 Byte/sec.
+ VelocitÖ:              7997,992 MB/min.
+   Terminato: lunedç 9 marzo 2026 09:19:40
+

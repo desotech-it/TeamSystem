@@ -1,0 +1,15 @@
+2026-03-09 12:18:33 [INFO] UseStoredCredentials=False: uso le credenziali dell'utente corrente
+2026-03-09 12:18:33 [INFO] utente AD trovato: ogarofalo09_TS1
+2026-03-09 12:18:33 [INFO] kick session OK per ogarofalo09_TS1 su 10.182.2.2
+2026-03-09 12:18:48 [INFO] drive Y: mapped -> \\10.182.2.2\d$
+2026-03-09 12:18:48 [INFO] drive Z: mapped -> \\10.182.2.248\c$
+2026-03-09 12:18:48 [INFO] run: C:\Windows\System32\robocopy.exe Y:\users\ogarofalo09_TS1\Documents Z:\Danea /MIR /MT:32 /XJ /R:1 /W:1 /COPY:DATS /DCOPY:DA /NP /XD Y:\users\ogarofalo09_TS1\Desktop Y:\users\ogarofalo09_TS1\Downloads Y:\users\ogarofalo09_TS1\Danea Easyfatt /LOG+:D:\tools\migration-tool-st\logs\robocopy_ogarofalo09_TS1_20260309_121848.log
+2026-03-09 12:18:48 [INFO] set ACL: icacls "Z:\Danea" /inheritance:r /grant "ad.easyfattincloud.it\\ogarofalo09_TS1:(OI)(CI)F" /T
+2026-03-09 12:18:48 [INFO] permessi NTFS assegnati
+2026-03-09 12:18:48 [INFO] post-migrazione: avvio step rinomina cartella sorgente (aggiunta _migrated)
+2026-03-09 12:18:48 [INFO] === post-migrazione: rinomina cartella sorgente avviata ===
+2026-03-09 12:18:48 [INFO] parametri: User=ogarofalo09_TS1 Source=10.182.2.2 Destination=10.182.2.248 SrcDrive=Y DstDrive=Z
+2026-03-09 12:18:48 [ERROR] post-migrazione: ERRORE: check fallito: cartella sorgente non trovata: Y:\users\ogarofalo09_TS1
+2026-03-09 12:18:48 [ERROR] post-migrazione: step rinomina FALLITO: rc=0
+2026-03-09 12:18:48 [INFO] drive Y e Z rimossi
+2026-03-09 12:18:48 [ERROR] post-migrazione fallita: migrazione considerata non completata

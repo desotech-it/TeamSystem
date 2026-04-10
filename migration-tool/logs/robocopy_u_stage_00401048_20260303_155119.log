@@ -1,0 +1,67 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Copia di file efficace per Windows                              
+-------------------------------------------------------------------------------
+
+  Avviato: martedç 3 marzo 2026 15:51:19
+      Origine : Y:\users\u_stage_00401048\
+ Destinazione : Z:\Danea\
+
+         File: *.*
+	    
+Directory exc: Y:\users\u_stage_00401048\Desktop
+	    Y:\users\u_stage_00401048\Downloads
+	    Y:\users\u_stage_00401048\Danea Easyfatt
+	    
+      Opzioni: *.* /S /E /DCOPY:DA /COPY:DATS /PURGE /MIR /NP /XJ /MT:32 /R:1 /W:1 
+
+-------------------------------------------------------------------------------
+
+	    Nuovo file		   5.8 m	Y:\users\u_stage_00401048\Documents\Danea Easyfatt\Arredufficio (esempio 1).eft
+	    Nuovo file		   7.0 m	Y:\users\u_stage_00401048\Documents\Danea Easyfatt\Migra_1.eft
+	    Nuovo file		   6.2 m	Y:\users\u_stage_00401048\Documents\Danea Easyfatt\Studio Rossi (esempio 2).eft
+	    Nuovo file		  544987	Y:\users\u_stage_00401048\Documents\Danea Easyfatt (Copie di sicurezza)\Migra_1\Migra_1 20260212 (12-2-26 12.41) Auto.bef
+	    Nuovo file		  875817	Y:\users\u_stage_00401048\Documents\Danea Easyfatt (Copie di sicurezza)\Migra_1\Migra_1 20260213 (13-2-26 12.38) Auto.bef
+	    Nuovo file		   2.1 m	Y:\users\u_stage_00401048\AppData\Roaming\Danea\Easyfatt\DbTemplate2.ef_
+	    Nuovo file		   5.1 m	Y:\users\u_stage_00401048\AppData\Roaming\Danea\Easyfatt\DbTemplate3.ef_
+	    Nuovo file		    1330	Y:\users\u_stage_00401048\AppData\Roaming\Danea\Easyfatt\Easyfatt.log
+	    Nuovo file		   18111	Y:\users\u_stage_00401048\AppData\Roaming\Danea\Easyfatt\RssBlog.xml
+	    Nuovo file		     743	Y:\users\u_stage_00401048\AppData\Roaming\Danea\Easyfatt\StatsNew.json
+	    Nuovo file		       3	Y:\users\u_stage_00401048\AppData\Roaming\Microsoft\Windows\SendTo\Compressed (zipped) Folder.ZFSendToTarget
+	    Nuovo file		       7	Y:\users\u_stage_00401048\AppData\Roaming\Microsoft\Windows\SendTo\Desktop (create shortcut).DeskLink
+	    Nuovo file		     181	Y:\users\u_stage_00401048\AppData\Roaming\Microsoft\Windows\SendTo\desktop.ini
+	    Nuovo file		       4	Y:\users\u_stage_00401048\AppData\Roaming\Microsoft\Windows\SendTo\Mail Recipient.MAPIMail
+	    Nuovo file		    1259	Y:\users\u_stage_00401048\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\Control Panel.lnk
+	    Nuovo file		     268	Y:\users\u_stage_00401048\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\desktop.ini
+	    Nuovo file		    1158	Y:\users\u_stage_00401048\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\Server Manager.lnk
+	    Nuovo file		     352	Y:\users\u_stage_00401048\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\Shows Desktop.lnk
+	    Nuovo file		     334	Y:\users\u_stage_00401048\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\Window Switcher.lnk
+	    Nuovo file		     170	Y:\users\u_stage_00401048\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Maintenance\Desktop.ini
+	    Nuovo file		     170	Y:\users\u_stage_00401048\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessories\Desktop.ini
+	    Nuovo file		    2539	Y:\users\u_stage_00401048\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Windows PowerShell\Windows PowerShell (x86).lnk
+	    Nuovo file		    2539	Y:\users\u_stage_00401048\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Windows PowerShell\Windows PowerShell.lnk
+	    Nuovo file		     568	Y:\users\u_stage_00401048\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessibility\desktop.ini
+	    Nuovo file		    1106	Y:\users\u_stage_00401048\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessibility\Magnify.lnk
+	    Nuovo file		    1108	Y:\users\u_stage_00401048\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessibility\Narrator.lnk
+	    Nuovo file		    1106	Y:\users\u_stage_00401048\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessibility\On-Screen Keyboard.lnk
+	    Nuovo file		    1281	Y:\users\u_stage_00401048\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\System Tools\Administrative Tools.lnk
+	    Nuovo file		    1142	Y:\users\u_stage_00401048\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\System Tools\Command Prompt.lnk
+	    Nuovo file		     335	Y:\users\u_stage_00401048\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\System Tools\computer.lnk
+	    Nuovo file		     405	Y:\users\u_stage_00401048\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\System Tools\Control Panel.lnk
+	    Nuovo file		     380	Y:\users\u_stage_00401048\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\System Tools\desktop.ini
+	    Nuovo file		     407	Y:\users\u_stage_00401048\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\System Tools\File Explorer.lnk
+	    Nuovo file		     409	Y:\users\u_stage_00401048\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\System Tools\Run.lnk
+
+-------------------------------------------------------------------------------
+
+              Totale   Copiato  IgnorateNon corrispondentiNon riuscitaSupplementari
+Directory:        34        34         0         0         0         0
+     File:        34        34         0         0         0         0
+     Byte:   27.80 m   27.80 m         0         0         0         0
+   Durata:   0:00:03   0:00:00                       0:00:00   0:00:00
+
+
+ VelocitÖ:           88.618.148 Byte/sec.
+ VelocitÖ:             5070,771 MB/min.
+   Terminato: martedç 3 marzo 2026 15:51:19
+

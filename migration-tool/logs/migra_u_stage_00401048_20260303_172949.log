@@ -1,0 +1,18 @@
+﻿2026-03-03 17:29:49 [INFO] UseStoredCredentials=False: uso le credenziali dell'utente corrente
+2026-03-03 17:29:49 [INFO] utente AD trovato: u_stage_00401048
+2026-03-03 17:30:13 [INFO] kick session OK per u_stage_00401048 su 10.182.2.11
+2026-03-03 17:30:13 [INFO] drive Y: mapped -> \\10.182.2.11\d$
+2026-03-03 17:30:13 [INFO] drive Z: mapped -> \\10.182.2.12\c$
+2026-03-03 17:30:13 [INFO] run: C:\Windows\System32\robocopy.exe Y:\users\u_stage_00401048\Documents Z:\Danea /MIR /MT:32 /XJ /R:1 /W:1 /COPY:DATS /DCOPY:DA /NP /XD Y:\users\u_stage_00401048\Desktop Y:\users\u_stage_00401048\Downloads Y:\users\u_stage_00401048\Danea Easyfatt /LOG+:D:\tools\migration-tool-st\logs\robocopy_u_stage_00401048_20260303_173013.log
+2026-03-03 17:30:14 [INFO] set ACL: icacls "Z:\Danea" /inheritance:r /grant "ad.easyfattincloud.it\\u_stage_00401048:(OI)(CI)F" /T
+2026-03-03 17:30:14 [INFO] permessi NTFS assegnati
+2026-03-03 17:30:14 [INFO] post-migrazione: avvio step rinomina cartella sorgente (aggiunta _migrated)
+2026-03-03 17:30:14 [INFO] === post-migrazione: rinomina cartella sorgente avviata ===
+2026-03-03 17:30:14 [INFO] parametri: User=u_stage_00401048 Source=10.182.2.11 Destination=10.182.2.12 SrcDrive=Y DstDrive=Z
+2026-03-03 17:30:14 [INFO] check contenuti top-level: src=2 dst=2
+2026-03-03 17:30:14 [INFO] rinomina sorgente: 'Y:\users\u_stage_00401048' -> 'u_stage_00401048_migrated'
+2026-03-03 17:30:14 [INFO] rinomina completata: Y:\users\u_stage_00401048_migrated
+2026-03-03 17:30:14 [INFO] === post-migrazione: completato con successo ===
+2026-03-03 17:30:14 [INFO] post-migrazione: step rinomina completato
+2026-03-03 17:30:14 [INFO] drive Y e Z rimossi
+2026-03-03 17:30:14 [INFO] copy completed rc=0

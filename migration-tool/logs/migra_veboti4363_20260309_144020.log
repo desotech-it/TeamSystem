@@ -1,0 +1,18 @@
+2026-03-09 14:40:20 [INFO] UseStoredCredentials=False: uso le credenziali dell'utente corrente
+2026-03-09 14:40:20 [INFO] utente AD trovato: veboti4363
+2026-03-09 14:40:44 [INFO] kick session OK per veboti4363 su 10.182.2.11
+2026-03-09 14:40:59 [INFO] drive Y: mapped -> \\10.182.2.11\d$
+2026-03-09 14:40:59 [INFO] drive Z: mapped -> \\10.182.2.249\c$
+2026-03-09 14:40:59 [INFO] run: C:\Windows\System32\robocopy.exe Y:\users\veboti4363\Documents Z:\Danea /MIR /MT:32 /XJ /R:1 /W:1 /COPY:DATS /DCOPY:DA /NP /XD Y:\users\veboti4363\Desktop Y:\users\veboti4363\Downloads Y:\users\veboti4363\Danea Easyfatt /LOG+:D:\tools\migration-tool-st\logs\robocopy_veboti4363_20260309_144059.log
+2026-03-09 14:40:59 [INFO] set ACL: icacls "Z:\Danea" /inheritance:r /grant "ad.easyfattincloud.it\\veboti4363:(OI)(CI)F" /T
+2026-03-09 14:40:59 [INFO] permessi NTFS assegnati
+2026-03-09 14:40:59 [INFO] post-migrazione: avvio step rinomina cartella sorgente (aggiunta _migrated)
+2026-03-09 14:40:59 [INFO] === post-migrazione: rinomina cartella sorgente avviata ===
+2026-03-09 14:40:59 [INFO] parametri: User=veboti4363 Source=10.182.2.11 Destination=10.182.2.249 SrcDrive=Y DstDrive=Z
+2026-03-09 14:40:59 [INFO] check contenuti top-level: src=3 dst=2
+2026-03-09 14:40:59 [INFO] rinomina sorgente: 'Y:\users\veboti4363' -> 'veboti4363_migrated'
+2026-03-09 14:40:59 [INFO] rinomina completata: Y:\users\veboti4363_migrated
+2026-03-09 14:40:59 [INFO] === post-migrazione: completato con successo ===
+2026-03-09 14:40:59 [INFO] post-migrazione: step rinomina completato
+2026-03-09 14:40:59 [INFO] drive Y e Z rimossi
+2026-03-09 14:40:59 [INFO] copy completed rc=0

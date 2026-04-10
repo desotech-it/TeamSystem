@@ -1,0 +1,7 @@
+2026-03-09 09:19:20 [INFO] UseStoredCredentials=False: uso le credenziali dell'utente corrente
+2026-03-09 09:19:20 [INFO] kick start: user='u_stage_00692848' source='10.182.2.11' force=True
+2026-03-09 09:19:20 [WARN] Invoke-Command fallito ([10.182.2.11] Connecting to remote server 10.182.2.11 failed with the following error message : Client Gestione remota Windows: impossibile elaborare la richiesta. È possibile utilizzare l'autenticazione predefinita con un indirizzo IP se si verificano le condizioni seguenti: il trasporto è HTTPS o la destinazione è inclusa nell'elenco TrustedHosts e sono state specificate credenziali esplicite. Per configurare TrustedHosts, utilizzare winrm.cmd. Si noti che i computer inclusi nell'elenco TrustedHosts potrebbero non essere autenticati. Per ulteriori informazioni su come impostare TrustedHosts, eseguire il comando seguente: winrm help config. For more information, see the about_Remote_Troubleshooting Help topic.). Fallback su 'quser /server:'
+2026-03-09 09:19:20 [INFO] sessioni trovate: 5482:Attivo
+2026-03-09 09:19:20 [INFO] termino sessione id=5482 (logoff) ...
+2026-03-09 09:19:22 [INFO]     Disconnessione in corso dell'ID sessione 5482
+2026-03-09 09:19:24 [INFO] tutte le sessioni terminate (OK)

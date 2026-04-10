@@ -1,0 +1,15 @@
+2026-03-06 15:10:32 [INFO] UseStoredCredentials=False: uso le credenziali dell'utente corrente
+2026-03-06 15:10:32 [INFO] utente AD trovato: s.reale_xy
+2026-03-06 15:10:32 [INFO] kick session OK per s.reale_xy su 10.182.2.13
+2026-03-06 15:10:47 [INFO] drive Y: mapped -> \\10.182.2.13\d$
+2026-03-06 15:10:48 [INFO] drive Z: mapped -> \\10.182.2.245\c$
+2026-03-06 15:10:48 [INFO] run: C:\Windows\System32\robocopy.exe Y:\users\s.reale_xy\Documents Z:\Danea /MIR /MT:32 /XJ /R:1 /W:1 /COPY:DATS /DCOPY:DA /NP /XD Y:\users\s.reale_xy\Desktop Y:\users\s.reale_xy\Downloads Y:\users\s.reale_xy\Danea Easyfatt /LOG+:D:\tools\migration-tool-st\logs\robocopy_s.reale_xy_20260306_151048.log
+2026-03-06 15:10:48 [INFO] set ACL: icacls "Z:\Danea" /inheritance:r /grant "ad.easyfattincloud.it\\s.reale_xy:(OI)(CI)F" /T
+2026-03-06 15:10:48 [INFO] permessi NTFS assegnati
+2026-03-06 15:10:48 [INFO] post-migrazione: avvio step rinomina cartella sorgente (aggiunta _migrated)
+2026-03-06 15:10:48 [INFO] === post-migrazione: rinomina cartella sorgente avviata ===
+2026-03-06 15:10:48 [INFO] parametri: User=s.reale_xy Source=10.182.2.13 Destination=10.182.2.245 SrcDrive=Y DstDrive=Z
+2026-03-06 15:10:48 [ERROR] post-migrazione: ERRORE: check fallito: cartella sorgente non trovata: Y:\users\s.reale_xy
+2026-03-06 15:10:48 [ERROR] post-migrazione: step rinomina FALLITO: rc=0
+2026-03-06 15:10:48 [INFO] drive Y e Z rimossi
+2026-03-06 15:10:48 [ERROR] post-migrazione fallita: migrazione considerata non completata
